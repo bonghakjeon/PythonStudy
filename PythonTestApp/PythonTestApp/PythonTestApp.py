@@ -3,6 +3,9 @@
 # 참고 2 URL - https://www.python.org/downloads/
 # 참고 3 URL - https://learn.microsoft.com/ko-kr/visualstudio/python/installing-python-interpreters?view=vs-2022
 
+# 파이썬 화면 구현 패키지 tkinter 사용 방법 
+# 참고 URL - https://imspear.tistory.com/25
+
 import sys
 from math import cos, radians
 # print("Hello, Visual Studio")
