@@ -6,6 +6,15 @@
 # 파이썬 화면 구현 패키지 tkinter 사용 방법 
 # 참고 URL - https://imspear.tistory.com/25
 
+# 파이썬 정적 타입 오류 검사 도구 Mypy 설치 방법 및 설명 
+# 참고 URL - https://www.daleseo.com/python-mypy/
+# 참고 2 URL - https://dailyheumsi.tistory.com/222
+
+# 파이썬 일반 코드 타입 오류 검사 도구 pylint 설치 방법 및 설명 
+# 참고 URL - https://zoosso.tistory.com/635
+# 참고 2 URL - https://dailyheumsi.tistory.com/222
+
+
 import sys
 from math import cos, radians
 # print("Hello, Visual Studio")

@@ -3,6 +3,14 @@
 # 참고 2 URL - https://www.python.org/downloads/
 # 참고 3 URL - https://learn.microsoft.com/ko-kr/visualstudio/python/installing-python-interpreters?view=vs-2022
 
+# 파이썬 정적 타입 오류 검사 도구 Mypy 설치 방법 및 설명 
+# 참고 URL - https://www.daleseo.com/python-mypy/
+# 참고 2 URL - https://dailyheumsi.tistory.com/222
+
+# 파이썬 일반 코드 타입 오류 검사 도구 pylint 설치 방법 및 설명 
+# 참고 URL - https://zoosso.tistory.com/635
+# 참고 2 URL - https://dailyheumsi.tistory.com/222
+
 from math import radians
 import numpy as np # installed with matplotlib 
 import matplotlib.pyplot as plt
