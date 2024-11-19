@@ -15,6 +15,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonTestApp5", "PythonTes
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonGUI", "PythonGUI\PythonGUI.pyproj", "{5CCB19BE-6724-424F-A44B-6DF256B366EB}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonBinarySearch", "PythonBinarySearch\PythonBinarySearch.pyproj", "{9B1AABA8-28BF-4ABC-A6BB-4106D5A537EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,8 @@ Global
 		{FB5A0C24-CE17-483A-BBA2-1623087F1670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CCB19BE-6724-424F-A44B-6DF256B366EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5CCB19BE-6724-424F-A44B-6DF256B366EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1AABA8-28BF-4ABC-A6BB-4106D5A537EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1AABA8-28BF-4ABC-A6BB-4106D5A537EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
